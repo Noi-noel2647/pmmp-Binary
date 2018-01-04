@@ -1,6 +1,7 @@
 # pmmp-Binary
 PocketMine-MP のbinフォルダ  
-Windows PHP7.2.0 RC5
+Windows PHP-7.2.0 RC5 <br>
+Linux PHP-7.2.0
 
 MCBE-JPN版はpocketmine.icoがMCBE-JPN仕様になってます<br>
 使用の際は**bin**にリネームしてください。
