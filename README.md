@@ -7,6 +7,8 @@ MCBE-JPN版はpocketmine.icoがMCBE-JPN仕様になってます<br>
 
 # 対応start.cmdファイル
 中身的にはpmmpさんのものと同じになります
+https://ci.appveyor.com/project/pmmp/php-build-scripts/history
+
 
 # Binフォルダの構成  
 bin/  
