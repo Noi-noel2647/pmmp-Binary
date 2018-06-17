@@ -1,6 +1,6 @@
 # pmmp-Binary
 PocketMine-MP のbinフォルダ  <br>
-***Windows PHP-7.2.5*** <br>
+***Windows PHP-7.2.6*** <br>
 ***Linux PHP-7.2.0*** <br>
 
 MCBE-JPN版はpocketmine.icoがMCBE-JPN仕様になってます<br>
