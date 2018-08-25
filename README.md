@@ -7,9 +7,9 @@ PocketMine-MP のbinフォルダ  <br>
 MCBE-JPN版はpocketmine.icoがMCBE-JPN仕様になってます<br>
 
 中身的にはpmmpさんのものと同じになりますが、以下のライブラリを使用可能にしています。<br>
-**・php_gd2.dll <br>
-・php_mysqli.dll <br>
-・php_sqlite3.dll <br>**
+**・php_gd2.dll
+・php_mysqli.dll
+・php_sqlite3.dll **
 
 https://ci.appveyor.com/project/pmmp/php-build-scripts/history
 
