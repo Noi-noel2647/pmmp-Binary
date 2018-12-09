@@ -1,7 +1,7 @@
 # pmmp-Binary
 PocketMine-MP のbinフォルダ  <br>
 * **Windows PHP-7.2.13** <br>
-* **MacOS PHO-7.2** <br>
+* **MacOS PHP-7.2** <br>
 * **Linux PHP-7.2** <br>
 
 
